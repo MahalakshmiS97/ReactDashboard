@@ -1,0 +1,73 @@
+.sidebar-heading{
+padding:20px;
+color: #013CC6;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+margin-top: 10px;
+margin-top:5px;
+}
+.dashboard{
+  color:#0B63F8;
+}
+.list-group{
+  margin-left: 20px;
+}
+.sms,.lab,.appointment,.order,.dash,.payment,.setting{
+  padding:5px;
+}
+.fa-circle-question{
+  padding:20px;
+  margin-left: 10px;
+}
+.input-group-text{
+  background-color: white !important;
+}
+.formcl{
+  border-left:none !important;
+}
+.navbar{
+  margin-top:-690px;
+  width:50%;
+  margin-left: 250px;
+}
+
+.notification{
+  margin-left:1120px;
+  margin-top:-50px;
+}
+.row{
+  margin-left:250px;
+  margin-top:20px;
+}
+h5{
+  margin-left:258px;
+}
+.table{
+  width:83%;
+  margin-left:250px;
+  margin-top:30px;
+}
+th{
+  font-family: Lato;
+}
+td{
+  padding:10px !important;
+  font-family: poppins;
+}
+.sidebar-footer{
+ margin-top:100px;
+}
+.form-control{
+  color:#13131399;
+}
+.form-label{
+  font-family: Poppins;
+  font-weight: 400;
+}
+#sidebar-wrapper{
+  font-family: Poppins;
+  font-weight: 400;
+}
